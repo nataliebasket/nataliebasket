@@ -1,16 +1,18 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**nataliebasket/nataliebasket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Наталия.
 
-Here are some ideas to get you started:
+Мои учебные проекты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :camera: [Девайс] - Интернет-магазин гаджетов.
+- :cat: [Кэт энерджи] - Интернет-магазин фитнес еды для котиков.
+- :hotel: [Кексобукинг] - Сервис для размещения объявлений о сдаче недвижимости.
+
+Мои тестовые задания:
+- :airplane: [Флексберри] - Сортировка авиабилетов.
+
+
+   [Девайс]: <https://nataliebasket.github.io/device/>
+   [Кэт энерджи]: <https://nataliebasket.github.io/cat-energy/>
+   [Кексобукинг]: <https://nataliebasket.github.io/1881369-keksobooking-25/>
+   [Флексберри]: <https://nataliebasket.github.io/flexberry/>
